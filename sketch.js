@@ -72,7 +72,7 @@ function setup() {
 }
 
 function draw() {
-  background(180);
+  background("cyan");
   
   text("Score: "+ count, 500,50);
   
